@@ -6797,7 +6797,7 @@ a UseServerInfiniteReturnObject object
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useOpenmrsInfinite.ts:90](https://github.com/openmrs/openmrs-esm-core/blob/main/packages/framework/esm-react-utils/src/useOpenmrsInfinite.ts#L90)
+[packages/framework/esm-react-utils/src/useOpenmrsInfinite.ts:97](https://github.com/openmrs/openmrs-esm-core/blob/main/packages/framework/esm-react-utils/src/useOpenmrsInfinite.ts#L97)
 
 ___
 
